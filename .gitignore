@@ -1,0 +1,24 @@
+# Dependency directories
+/node_modules
+
+# Build output
+/build
+/dist
+
+# Environment variables
+.env
+
+# IDE and editor files
+/.idea
+/.vscode
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools
+.kateproject
+
+# Logs and debugging
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log*
